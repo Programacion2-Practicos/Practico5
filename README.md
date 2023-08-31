@@ -20,7 +20,9 @@
 • **public void eliminar( Empleado e)** Recibe un empleado y lo elimina de la lista
 • **public Articulo devolver(int i)**  Devuelve el articulo de la posición i
 • **public int cantidad()** Devuelve cantidad de articulos de la lista
+
 **Empleados: Métodos Específicos**
+
 • **public int cantidadVendedores()**  Devuelve la cantidad de vendedores  de la lista
 • **public double obtenerTotalSalarios()**  Devuelve la suma de todos los salarios de los empleados de la lista
 • **public String toString()**  Devuelve un String con la información de los empleados de la lista
