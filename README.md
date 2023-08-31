@@ -25,7 +25,7 @@
 
 • **public int cantidad()** Devuelve cantidad de articulos de la lista
 
-#### **Empleados: Métodos Específicos**
+### **Empleados: Métodos Específicos**
 
 • **public int cantidadVendedores()**  Devuelve la cantidad de vendedores  de la lista
 
