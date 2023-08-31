@@ -1,7 +1,7 @@
 ## PRACTICO 5
 
 ### Realizar un proyecto Practico5 con dos paquetes.
-## 1) En el *paquete logica*, las clases que puede ver en el siguiente diagrama de clases.
+### 1) En el *paquete logica*, las clases que puede ver en el siguiente diagrama de clases.
 
 ![Diagrama de clase Empleados](./DiagramaEmpleados.png)  
 
@@ -34,6 +34,6 @@
 • **public String toString()**  Devuelve un String con la información de los empleados de la lista
 
 
-## 2) En el *paquete consola*: Crear la clase **Principal** cargar varios objetos de Vendedor y Empleado en la lista de Empleados, comprobar que todos los métodos funcionan de manera correcta.
+### 2) En el *paquete consola*: Crear la clase **Principal** cargar varios objetos de Vendedor y Empleado en la lista de Empleados, comprobar que todos los métodos funcionan de manera correcta.
 
 
