@@ -1,14 +1,4 @@
-package logica;
 
-public class Articulo {
-	
-	private int codigo;
-	private String nombre;
-	private double precioCosto;
-		
-	public Articulo() {
-			
-	}
 		
 	public Articulo(int codigo, String nombre, double precioCosto) {
 			this.codigo = codigo;
