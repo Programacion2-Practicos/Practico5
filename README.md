@@ -15,6 +15,7 @@
 • **calcularComisión():double** Retorna un 20% de las ventas realizadas
 
 **Empleados: Métodos Primitivos**
+
 • **public void agregar(Empleado e)** Recibe un empleado y lo inserta en la lista
 • **public void eliminar( Empleado e)** Recibe un empleado y lo elimina de la lista
 • **public Articulo devolver(int i)**  Devuelve el articulo de la posición i
