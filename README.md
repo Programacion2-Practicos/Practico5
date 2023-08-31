@@ -5,17 +5,17 @@
 
 ![Diagrama de clase Empleados](./DiagramaEmpleados.png)  
 
-#### **Empleado: Métodos Específicos**
+### **Empleado: Métodos Específicos**
 
 • **calcularImpuesto(): double** El método retorna el 25% del salario
 
-#### **Vendedor: Métodos Específicos**
+### **Vendedor: Métodos Específicos**
 
 • **calcularImpuesto(): double** Sobreescribe el método calcularImpuesto del empleado y le adiciona un 5% más
 
 • **calcularComisión():double** Retorna un 20% de las ventas realizadas
 
-#### **Empleados: Métodos Primitivos**
+### **Empleados: Métodos Primitivos**
 
 • **public void agregar(Empleado e)** Recibe un empleado y lo inserta en la lista
 
