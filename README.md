@@ -21,9 +21,9 @@
 
 • **public void eliminar( int i)** Recibe la posición donde está el empleado y lo elimina de la lista
 
-• **public Articulo devolver(int i)**  Devuelve el articulo de la posición i
+• **public Empleado devolver(int i)**  Devuelve el Empleado de la posición i
 
-• **public int cantidad()** Devuelve cantidad de articulos de la lista
+• **public int cantidad()** Devuelve cantidad de Empleados de la lista
 
 ### **Empleados: Métodos Específicos**
 
